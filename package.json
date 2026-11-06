@@ -1,0 +1,13 @@
+{
+  "name": "olivaw_ai_test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "devDependencies": {
+    "eslint": "^9.20.0",
+    "prettier": "^3.8.1"
+  }
+}

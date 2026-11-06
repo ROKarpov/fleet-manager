@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+
+allowBuilds:
+  esbuild: true
+  lightningcss: true
+  '@prisma/engines': true
+  prisma: true

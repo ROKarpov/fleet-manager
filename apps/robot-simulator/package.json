@@ -1,0 +1,20 @@
+{
+  "name": "robot-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "simulate": "dotenv -e ./.env.local -- node --experimental-strip-types ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "dependencies": {
+    "dotenv-cli": "^11.0.0",
+    "node-cron": "^4.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5"
+  }
+}
